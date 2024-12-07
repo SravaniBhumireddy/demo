@@ -1,0 +1,51 @@
+.first-div{
+    float:left;
+    width:50%;
+    background-color:aqua;
+    margin:15% 25% 5% 25%;
+    text-align:center;  
+    text-transform: uppercase;
+    box-shadow: 10px 10px 20px;
+    /*font-size: 30px;
+    border-radius: 30% 0% 20% 0%;*/
+}
+.first-div a{
+    text-decoration: none;
+    color: black;
+}
+.second-div{
+    float: left;
+    width:25%;
+    background-color: aquamarine;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 0% 20% 0% 20%;
+}
+.second-div a{
+    color: brown;
+    text-decoration: solid;
+}
+.third-div{
+    float: right;
+    width: 25%;
+    background-color: aquamarine;
+    font-size: 30px;
+    text-align: center;
+}
+.violet-div{
+    float: left;
+    width: 100%;
+    background-color: rgb(210, 147, 247);
+    margin:3% 0% 10% 0%;
+    padding:1% 0% 1% 0%
+}
+.white-div{
+    float: left;
+    width: 32%;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 0% 0% 0% 1%;
+    border: 1px solid black;
+    text-transform: uppercase;
+    font-size: 30px;
+}
